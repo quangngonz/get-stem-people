@@ -21,6 +21,12 @@ for person in data['people']:
     
     # Add the 'img' attribute to the person dictionary
     person['img'] = f'{first_name}.png'
+    person['import'] = f'import {first_name} from "./{first_name}.jpg";'
+
+#write all import statements to a file
+with open('./imports.txt', 'w') as file:
+    for person in data['people']:
+        file.write(person['import'] + '\n')
 
 # Write the updated data back to the JSON file
 with open('./people.json', 'w') as file:

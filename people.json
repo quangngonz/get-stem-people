@@ -1,0 +1,142 @@
+{
+  "people": [
+    {
+      "name": "Melissa Cristina M\\u00e1rquez",
+      "occupation": "Marine Biologist",
+      "rarity": "common"
+    },
+    { "name": "Shaesta", "occupation": "Waiz Pilot", "rarity": "common" },
+    {
+      "name": "Pawan Sinha",
+      "occupation": "Neuroscientist",
+      "rarity": "common"
+    },
+    {
+      "name": "Flossie Wong-Staal",
+      "occupation": "Virologist",
+      "rarity": "common"
+    },
+    { "name": "Lonnie Johnson", "occupation": "Engineer", "rarity": "common" },
+    {
+      "name": "Christopher Williams",
+      "occupation": "Museum STEM Education Specialist",
+      "rarity": "common"
+    },
+    {
+      "name": "Scott Fulbright",
+      "occupation": "Cofounder & Biologist",
+      "rarity": "common"
+    },
+    {
+      "name": "Arlyne Simon",
+      "occupation": "Biochemical Engineer",
+      "rarity": "common"
+    },
+    {
+      "name": "Colette DeHarpporte",
+      "occupation": "Business Owner",
+      "rarity": "common"
+    },
+    {
+      "name": "Seafha Ramos",
+      "occupation": "Wildlife Ecologist",
+      "rarity": "common"
+    },
+    {
+      "name": "LaMar Queen",
+      "occupation": "Math Teacher",
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Sophie Okolo",
+      "occupation": "Science Writer",
+      "rarity": "common"
+    },
+    {
+      "name": "Gabriel Montan\u00f5",
+      "occupation": "Material Scientist",
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Bernard A. Harris Jr.",
+      "occupation": "Astronaut & Doctor",
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Craig Newmark",
+      "occupation": "Technologist",
+      "rarity": "uncommon"
+    },
+    {
+      "name": "Chawne Kimber",
+      "occupation": "Mathematician",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Sarah Kaiser",
+      "occupation": "Expert Quantum Computing",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Susan Tsang",
+      "occupation": "Researcher & Science Diplomat",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Stephen Hawking",
+      "occupation": "Cosmologist",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Joel Barkan",
+      "occupation": "Science Outreach & Conservation",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Elizabeth Blackburn",
+      "occupation": "Biologist",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Carolina Ram\u00f4a",
+      "occupation": "Pharmacologist",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Maryam Zaringhalam",
+      "occupation": "Science Communicator & Biologist",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Akiko Iwasaki",
+      "occupation": "Immunologist",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "William Tarpeh",
+      "occupation": "Chemical Engineer",
+      "rarity": "Legendary"
+    },
+    {
+      "name": "Janice Lao",
+      "occupation": "Environmental Scientist",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Sonya Hassan-Carey",
+      "occupation": "Animation Technology Specialist",
+      "rarity": "Legendary"
+    },
+    { "name": "Sonia Lo", "occupation": "CEO", "rarity": "Rare" },
+    {
+      "name": "Fei-Fei Li",
+      "occupation": "Computer Scientist",
+      "rarity": "Rare"
+    },
+    {
+      "name": "Tara Houska",
+      "occupation": "Environmental Attorney",
+      "rarity": "Legendary"
+    }
+  ]
+}

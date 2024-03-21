@@ -3,145 +3,188 @@
     {
       "name": "Melissa Cristina M\\u00e1rquez",
       "occupation": "Marine Biologist",
-      "rarity": "common"
+      "rarity": "common",
+      "img": "melissa.png"
     },
-    { "name": "Shaesta", "occupation": "Waiz Pilot", "rarity": "common" },
+    {
+      "name": "Shaesta",
+      "occupation": "Waiz Pilot",
+      "rarity": "common",
+      "img": "shaesta.png"
+    },
     {
       "name": "Pawan Sinha",
       "occupation": "Neuroscientist",
-      "rarity": "common"
+      "rarity": "common",
+      "img": "pawan.png"
     },
     {
       "name": "Flossie Wong-Staal",
       "occupation": "Virologist",
-      "rarity": "common"
+      "rarity": "common",
+      "img": "flossie.png"
     },
-    { "name": "Lonnie Johnson", "occupation": "Engineer", "rarity": "common" },
+    {
+      "name": "Lonnie Johnson",
+      "occupation": "Engineer",
+      "rarity": "common",
+      "img": "lonnie.png"
+    },
     {
       "name": "Christopher Williams",
       "occupation": "Museum STEM Education Specialist",
-      "rarity": "common"
+      "rarity": "common",
+      "img": "christopher.png"
     },
     {
       "name": "Scott Fulbright",
       "occupation": "Cofounder & Biologist",
-      "rarity": "common"
+      "rarity": "common",
+      "img": "scott.png"
     },
     {
       "name": "Arlyne Simon",
       "occupation": "Biochemical Engineer",
-      "rarity": "common"
+      "rarity": "common",
+      "img": "arlyne.png"
     },
     {
       "name": "Colette DeHarpporte",
       "occupation": "Business Owner",
-      "rarity": "common"
+      "rarity": "common",
+      "img": "colette.png"
     },
     {
       "name": "Seafha Ramos",
       "occupation": "Wildlife Ecologist",
-      "rarity": "common"
+      "rarity": "common",
+      "img": "seafha.png"
     },
     {
       "name": "LaMar Queen",
       "occupation": "Math Teacher",
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "img": "lamar.png"
     },
     {
       "name": "Sophie Okolo",
       "occupation": "Science Writer",
-      "rarity": "common"
+      "rarity": "common",
+      "img": "sophie.png"
     },
     {
       "name": "Gabriel Montan\u00f5",
       "occupation": "Material Scientist",
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "img": "gabriel.png"
     },
     {
       "name": "Bernard A. Harris Jr.",
       "occupation": "Astronaut & Doctor",
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "img": "bernard.png"
     },
     {
       "name": "Craig Newmark",
       "occupation": "Technologist",
-      "rarity": "uncommon"
+      "rarity": "uncommon",
+      "img": "craig.png"
     },
     {
       "name": "Chawne Kimber",
       "occupation": "Mathematician",
-      "rarity": "Rare"
+      "rarity": "Rare",
+      "img": "chawne.png"
     },
     {
       "name": "Sarah Kaiser",
       "occupation": "Expert Quantum Computing",
-      "rarity": "Rare"
+      "rarity": "Rare",
+      "img": "sarah.png"
     },
     {
       "name": "Susan Tsang",
       "occupation": "Researcher & Science Diplomat",
-      "rarity": "Rare"
+      "rarity": "Rare",
+      "img": "susan.png"
     },
     {
       "name": "Stephen Hawking",
       "occupation": "Cosmologist",
-      "rarity": "Rare"
+      "rarity": "Rare",
+      "img": "stephen.png"
     },
     {
       "name": "Joel Barkan",
       "occupation": "Science Outreach & Conservation",
-      "rarity": "Rare"
+      "rarity": "Rare",
+      "img": "joel.png"
     },
     {
       "name": "Elizabeth Blackburn",
       "occupation": "Biologist",
-      "rarity": "Legendary"
+      "rarity": "Legendary",
+      "img": "elizabeth.png"
     },
     {
       "name": "Carolina Ram\u00f4a",
       "occupation": "Pharmacologist",
-      "rarity": "Legendary"
+      "rarity": "Legendary",
+      "img": "carolina.png"
     },
     {
       "name": "Maryam Zaringhalam",
       "occupation": "Science Communicator & Biologist",
-      "rarity": "Legendary"
+      "rarity": "Legendary",
+      "img": "maryam.png"
     },
     {
       "name": "Akiko Iwasaki",
       "occupation": "Immunologist",
-      "rarity": "Legendary"
+      "rarity": "Legendary",
+      "img": "akiko.png"
     },
     {
       "name": "William Tarpeh",
       "occupation": "Chemical Engineer",
-      "rarity": "Legendary"
+      "rarity": "Legendary",
+      "img": "william.png"
     },
     {
       "name": "Janice Lao",
       "occupation": "Environmental Scientist",
-      "rarity": "Rare"
+      "rarity": "Rare",
+      "img": "janice.png"
     },
     {
       "name": "Sonya Hassan-Carey",
       "occupation": "Animation Technology Specialist",
-      "rarity": "Legendary"
+      "rarity": "Legendary",
+      "img": "sonya.png"
     },
-    { "name": "Sonia Lo", "occupation": "CEO", "rarity": "Rare" },
+    {
+      "name": "Sonia Lo",
+      "occupation": "CEO",
+      "rarity": "Rare",
+      "img": "sonia.png"
+    },
     {
       "name": "Fei-Fei Li",
       "occupation": "Computer Scientist",
-      "rarity": "Rare"
+      "rarity": "Rare",
+      "img": "fei-fei.png"
     },
     {
       "name": "Tara Houska",
       "occupation": "Environmental Attorney",
-      "rarity": "Legendary"
+      "rarity": "Legendary",
+      "img": "tara.png"
     },
     {
       "name": "Flossie Wong-Staal",
       "occupation": "Virologist",
-      "rarity": "Legendary"
+      "rarity": "Legendary",
+      "img": "flossie.png"
     }
   ]
 }
